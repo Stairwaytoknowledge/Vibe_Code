@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+auto_commit.log
+
+# Conda environment (optional, you can regenerate with auto_commit.py)
+.env/
+.envrc
+*.conda
+*.ipynb_checkpoints
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Snippets backup or temporary files
+snippets/*.bak
+snippets/*.tmp
+
+# Other temporary files
+*.swp
+*.swo
+*.tmp
