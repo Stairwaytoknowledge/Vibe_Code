@@ -37,3 +37,9 @@ vibe_code/auto_commit.log
 vibe_code/.env
 vibe_code/auto_commit.env
 vibe_code/__pycache__/
+
+
+auto_commit.py 
+auto_commit.env
+auto_commit.log
+auto_commit.plist   
